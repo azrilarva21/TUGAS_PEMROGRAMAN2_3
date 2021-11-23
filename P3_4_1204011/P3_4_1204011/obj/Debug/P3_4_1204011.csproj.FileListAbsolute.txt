@@ -1,0 +1,12 @@
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\bin\Debug\P3_4_1204011.exe.config
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.csprojResolveAssemblyReference.cache
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.Form1.resources
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.Properties.Resources.resources
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.csproj.GenerateResource.Cache
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\bin\Debug\P3_4_1204011.exe
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\bin\Debug\P3_4_1204011.pdb
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.exe
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204004\P3_4_1204011\obj\Debug\P3_4_1204011.pdb
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204011\P3_4_1204011\bin\Debug\P3_4_1204011.exe.config
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204011\P3_4_1204011\obj\Debug\P3_4_1204011.exe
+C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_4_1204011\P3_4_1204011\obj\Debug\P3_4_1204011.pdb
