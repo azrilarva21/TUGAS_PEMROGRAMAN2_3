@@ -8,3 +8,6 @@ c:\users\mylenovo\documents\visual studio 2015\Projects\P3_2_1204011\P3_2_120401
 c:\users\mylenovo\documents\visual studio 2015\Projects\P3_2_1204011\P3_2_1204011\bin\Debug\P3_2_1204011.pdb
 c:\users\mylenovo\documents\visual studio 2015\Projects\P3_2_1204011\P3_2_1204011\obj\Debug\P3_2_1204011.exe
 c:\users\mylenovo\documents\visual studio 2015\Projects\P3_2_1204011\P3_2_1204011\obj\Debug\P3_2_1204011.pdb
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_2_1204011\P3_2_1204011\bin\Debug\P3_2_1204011.exe.config
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_2_1204011\P3_2_1204011\obj\Debug\P3_2_1204011.exe
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_2_1204011\P3_2_1204011\obj\Debug\P3_2_1204011.pdb

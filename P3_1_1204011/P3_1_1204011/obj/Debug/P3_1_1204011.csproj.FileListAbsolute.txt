@@ -7,3 +7,6 @@ C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_1_1204011\P3_1_120401
 C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_1_1204011\P3_1_1204011\bin\Debug\P3_1_1204011.pdb
 C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_1_1204011\P3_1_1204011\obj\Debug\P3_1_1204011.exe
 C:\Users\MyLenovo\Documents\Visual Studio 2015\Projects\P3_1_1204011\P3_1_1204011\obj\Debug\P3_1_1204011.pdb
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_1_1204011\P3_1_1204011\bin\Debug\P3_1_1204011.exe.config
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_1_1204011\P3_1_1204011\obj\Debug\P3_1_1204011.exe
+D:\tugas kuliah\Pemrograman 2\Praktikum 3\P3_1_1204011\P3_1_1204011\obj\Debug\P3_1_1204011.pdb
